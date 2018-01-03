@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="ursa_minor">{{-56.719820407865846, 63.53865854627065, 1.97, 0.451},
+    {-60.71397669114158, 61.76219838208992, 4.35, 0.046},
+    {-65.00387970224631, 58.951532117523236, 4.21, 0.706},
+    {-67.31972698334788, 54.34231659321388, 4.29, 0.095},
+    {-67.3528686828248, 49.497369990196, 2.07, 1.086},
+    {-71.5366597394729, 49.16277085005114, 3, 0.095},
+    {-70.72444026507081, 54.672918006462865, 4.95, 0.396}}</integer-array>
+
+    <array name="ursa_minor0">
+        <item>-56.719820407865846</item>
+        <item>63.53865854627065</item>
+        <item>1.97</item>
+        <item>0.451</item>
+    </array>
+    <array name = "ursa_minor1">
+        <item>-60.71397669114158</item>
+        <item>61.76219838208992</item>
+        <item>0.046</item>
+        <item>4.35</item>
+    </array>
+    <array name="ursa_minor2">
+        <item>-65.00387970224631</item>
+        <item>58.951532117523236</item>
+        <item>4.21</item>
+        <item>0.706</item>>
+    </array>
+    <array name="ursa_minor3">
+        <item>-67.31972698334788</item>
+        <item>54.34231659321388</item>
+        <item>4.29</item>
+        <item>0.095</item>
+    </array>
+    <array name="ursa_minor4">
+        <item>-67.3528686828248</item>
+        <item>49.497369990196</item>
+        <item>2.07</item>
+        <item> 1.086</item>
+    </array>
+    <array name="ursa_minor5">
+        <item>-71.536659739472</item>
+        <item>49.16277085005114</item>
+        <item>3</item>
+        <item>0.095</item>
+    </array>
+    <array name="ursa_minor6">
+        <item>-70.72444026507081</item>
+        <item>54.672918006462865</item>
+        <item>4.95</item>
+        <item>0.396</item>
+    </array>
+</resources>
